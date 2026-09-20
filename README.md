@@ -55,4 +55,4 @@ This is the first working version. Planned:
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT: see [LICENSE](LICENSE).
